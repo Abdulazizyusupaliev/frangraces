@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Book Antiqua';
+    src: url(../fonts/Book_Antiqua/bookantiqua.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Book Antiqua';
+    src: url(../fonts/Book_Antiqua/bookantiqua_bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'TT_travel';
+    src: url(../fonts/TT_travel/TTTravels-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'TT_travel';
+    src: url(../fonts/TT_travel/TTTravels-Light.ttf);
+    font-weight: 300;
+}
